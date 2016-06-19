@@ -19,3 +19,8 @@ This is the solution for using ninject dependency injection in ASP.NET for Web A
 https://github.com/waiyanhein/using-ninject-for-both-ASP.NET-Web-Api-2-and-MVC-5-in-the-same-project/blob/master/NinjectWebCommon.cs
 
 #####That's it. You are done. Now you can use ninject to resolve dependencies for ASP.NET MVC Web project built together with Web Api 2. 
+
+#####If any error throwing, update packages running this command in package manager console
+``
+update-package
+``

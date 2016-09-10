@@ -20,6 +20,8 @@ https://github.com/waiyanhein/using-ninject-for-both-ASP.NET-Web-Api-2-and-MVC-5
 
 #####That's it. You are done. Now you can use ninject to resolve dependencies for ASP.NET MVC Web project built together with Web Api 2. 
 
+####If Ninject.WebApi.DependencyResolver is required or missing, run "install-package Ninject.WebApi.DependencyResolver" in package manager console.
+
 #####If any error throwing, update packages running this command in package manager console
 ``
 update-package
